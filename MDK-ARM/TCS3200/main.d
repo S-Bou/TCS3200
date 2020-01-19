@@ -30,3 +30,9 @@ tcs3200\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h
 tcs3200\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
 tcs3200\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
 tcs3200\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
+tcs3200\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+tcs3200\main.o: ..\..\Libraries\tcs3200.h
+tcs3200\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+tcs3200\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+tcs3200\main.o: ..\..\Libraries\servos_buttons.h
+tcs3200\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
